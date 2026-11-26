@@ -187,7 +187,7 @@
   function barra() {
     return h('header', { class: 'barra' }, h('div', { class: 'barra-int' },
       h('img', { class: 'logo', src: 'icons/icon-192.png', alt: '' }),
-      h('h1', null, 'Compras · Ecocardiograma ambulatorio', h('small', null, 'Solicitud de Trabajo Social')),
+      h('h1', null, 'Jornada · Ecocardiograma ambulatorio', h('small', null, 'Solicitud de Trabajo Social')),
       E.instalar ? h('button', { class: 'btn-barra', onclick: instalarApp }, 'Instalar') : null));
   }
 
