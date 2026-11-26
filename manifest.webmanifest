@@ -1,6 +1,6 @@
 {
   "name": "Solicitud de ecocardiograma · Jornada",
-  "short_name": "Compras Eco",
+  "short_name": "Jornada Eco",
   "description": "Formulario para que Trabajo Social solicite ecocardiogramas ambulatorios",
   "lang": "es",
   "start_url": "./",
